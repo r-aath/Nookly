@@ -1,6 +1,6 @@
-# KataDinaraHarusMenang
+# Nookly
 Frontend
-Next.js (React) atau HTML + JS biasa
+Next.js (React)
 Halaman browse, form upload, halaman admin
 
 Backend/DB
@@ -9,14 +9,13 @@ Tabel link materi, matkul, bab, log akses
 
 Auth
 Supabase Auth
-Login kontributor dan admin saja
+Login kontributor dan admin
 
 File storage
 Supabase Storage
-Simpan link GDrive PDF/PPT yang diupload
 
 Analisis
-Python (pandas)
+Python
 Hitung akses mingguan per matkul/bab
 
 Dashboard
